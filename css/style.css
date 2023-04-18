@@ -103,6 +103,9 @@ section {
 .home-img {
     width: 730px;
     height: 730px;
+    position: absolute;
+
+    text-align: right;
 }
 
 .home-img img {
