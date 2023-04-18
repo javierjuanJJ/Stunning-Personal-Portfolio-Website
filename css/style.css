@@ -168,8 +168,8 @@ section {
 }
 
 .share {
-    position: absolute;
-    bottom: 3rem;
+
+    bottom: 10%;
     left: 15%;
     display: flex;
     align-items: center;
